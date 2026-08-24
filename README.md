@@ -1,7 +1,7 @@
 ### Christopher Duhame
 
 Field service technician with 30 years of hands-on electromechanical and
-low-voltage systems work — now building AWS cloud infrastructure and
+low-voltage systems work, now building AWS cloud infrastructure and
 AI-assisted data systems.
 
 **Currently:**
